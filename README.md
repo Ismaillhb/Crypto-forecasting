@@ -1,15 +1,6 @@
 The purpose of this project is to demonstrate a working, fully implemented system that is easy to install, run, and extend.
 
-🗂️ Project Structure
-.
-├── src/                # Main source code
-├── data/               # Input / output data (if applicable)
-├── models/             # Trained models or checkpoints
-├── requirements.txt    # Python dependencies
-├── main.py             # Entry point for running the project
-└── README.md           # Project documentation
-
-⚙️ Installation
+# ⚙️ Installation
 
 Clone the repository
 
@@ -28,7 +19,7 @@ Install dependencies
 
 pip install -r requirements.txt
 
-🚀 Usage
+# 🚀 Usage
 
 Run the project with:
 
@@ -41,7 +32,7 @@ Model loading (if used):
 
 Place pre-trained models inside the models/ folder. The program will automatically detect them.
 
-🧪 Testing
+# 🧪 Testing
 
 Run the test suite with:
 
@@ -54,12 +45,12 @@ python main.py --input sample_data.csv
 # Output
 Predictions saved to results/output.csv
 
-🔧 Configuration
+# 🔧 Configuration
 
 You can adjust project settings via config.json or command-line arguments.
 Check comments inside main.py for more available options.
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are always welcome!
 
@@ -73,12 +64,12 @@ Push to the branch (git push origin feature-xyz)
 
 Open a Pull Request
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
-✨ Acknowledgements
+# ✨ Acknowledgements
 
 💡 Inspired by real-world implementations
 
